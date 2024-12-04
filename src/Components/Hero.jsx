@@ -13,7 +13,7 @@ const Hero = () => {
             <span className="text-white ">Indra</span>
           </motion.p>{" "}
           <motion.p initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true }} transition={{ duration: 1, delay: 0.5 }} className="text-gray-300 max-w-[300px] md:max-w-[500px] md:text-2xl text-lg mb-6">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita, optio? Asperiores praesentium ab iure, laborum officia possimus veniam dolore vel.
+            I work as Laboratory Computer Staff at USTI(universitas Sains dan Teknologi Indonesia), I want to show the projects that I have worked on before.
           </motion.p>
         </motion.div>
 
