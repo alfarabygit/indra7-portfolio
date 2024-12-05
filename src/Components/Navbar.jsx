@@ -10,7 +10,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="fixed top-0 z-10 flex items-center justify-between w-full px-16 py-6 text-white border-b border-b-gray-700 bg-black/70 backdrop-blur-md md:justify-evenly">
+    <nav className="fixed top-0 z-10 flex items-center justify-between w-full px-16 py-6 text-white border-b border-b-gray-900 bg-black/50 backdrop-blur-md md:justify-evenly">
       <a href="#" className="text-3xl font-semibold text-transparent transition-all duration-300 bg-stone-500 bg-gradient-to-r from-zinc-400 to bg-clip-text opacity-80 hover:opacity-100">
         Indra
       </a>

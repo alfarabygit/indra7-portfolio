@@ -8,7 +8,7 @@ const Contact = () => {
           <span className="text-transparent bg-gradient-to-r from-zinc-500 to-stone-500 bg-clip-text">Get in Touch</span>
         </h1>
 
-        <p className="text-lg font-semibold text-center text-zinc-400 ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, velit.</p>
+        <p className="text-lg font-semibold text-center text-zinc-400 ">If you are interested in working with us, you can fill out the form below</p>
 
         <form action="" className="w-full lg:w-2/3 lg:mx-auto">
           <div className="w-full px-4 mb-8">
