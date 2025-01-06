@@ -7,7 +7,7 @@ const Hero = () => {
     <div id="home" className=" mt-24  max-w-[1200px] mx-auto relative">
       <div className="grid gap-8 md:grid-cols-2 place-items-center">
         <motion.div initial={{ opacity: 0, y: -50 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 1 }}>
-          <TypeAnimation sequence={["Staff Labor", 1000, "Programmer", 1000, "Gamer", 1000]} speed={50} repeat={Infinity} className="mb-4 text-xl font-bold text-gray-400 md:text-5xl italic-" />
+          <TypeAnimation sequence={["Staff Laboratory", 1000, "Programmer", 1000, "Gamer", 1000]} speed={50} repeat={Infinity} className="mb-4 text-xl font-bold text-gray-400 md:text-5xl italic-" />
           <motion.p initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} viewport={{ once: true }} transition={{ duration: 1, delay: 0.5 }} className="mb-4 text-5xl tracking-tight text-gray-200 md:text-7xl">
             HEY, I AM <br />
             <span className="text-white ">Indra</span>
